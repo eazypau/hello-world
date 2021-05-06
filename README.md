@@ -1,3 +1,12 @@
-# hello-world
-Another testing to learn how to use github
-Basically this is me learning to use git hub xD
+# Project name
+Description
+
+Table of Content
+
+installation guide of the project
+
+How to use/do/etc
+
+Credits
+
+License
